@@ -12,7 +12,7 @@ $ pkg install python3
 
 ```bash
 
-$ git clone https://github.com/joker1/joker.git
+$ git clone https://github.com/Alialix/joker1.git
 
 $ cd joker
 
